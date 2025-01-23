@@ -1,0 +1,16 @@
+C:\Users\dusti\Desktop\Dll_Injector\Dll_Injector\bin\Debug\net8.0-windows\InjectorDll.exe
+C:\Users\dusti\Desktop\Dll_Injector\Dll_Injector\bin\Debug\net8.0-windows\InjectorDll.deps.json
+C:\Users\dusti\Desktop\Dll_Injector\Dll_Injector\bin\Debug\net8.0-windows\InjectorDll.runtimeconfig.json
+C:\Users\dusti\Desktop\Dll_Injector\Dll_Injector\bin\Debug\net8.0-windows\InjectorDll.dll
+C:\Users\dusti\Desktop\Dll_Injector\Dll_Injector\bin\Debug\net8.0-windows\InjectorDll.pdb
+C:\Users\dusti\Desktop\Dll_Injector\Dll_Injector\obj\Debug\net8.0-windows\Dll_Injector.MainInjector.resources
+C:\Users\dusti\Desktop\Dll_Injector\Dll_Injector\obj\Debug\net8.0-windows\InjectorDll.csproj.GenerateResource.cache
+C:\Users\dusti\Desktop\Dll_Injector\Dll_Injector\obj\Debug\net8.0-windows\InjectorDll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dusti\Desktop\Dll_Injector\Dll_Injector\obj\Debug\net8.0-windows\InjectorDll.AssemblyInfoInputs.cache
+C:\Users\dusti\Desktop\Dll_Injector\Dll_Injector\obj\Debug\net8.0-windows\InjectorDll.AssemblyInfo.cs
+C:\Users\dusti\Desktop\Dll_Injector\Dll_Injector\obj\Debug\net8.0-windows\InjectorDll.csproj.CoreCompileInputs.cache
+C:\Users\dusti\Desktop\Dll_Injector\Dll_Injector\obj\Debug\net8.0-windows\InjectorDll.dll
+C:\Users\dusti\Desktop\Dll_Injector\Dll_Injector\obj\Debug\net8.0-windows\refint\InjectorDll.dll
+C:\Users\dusti\Desktop\Dll_Injector\Dll_Injector\obj\Debug\net8.0-windows\InjectorDll.pdb
+C:\Users\dusti\Desktop\Dll_Injector\Dll_Injector\obj\Debug\net8.0-windows\InjectorDll.genruntimeconfig.cache
+C:\Users\dusti\Desktop\Dll_Injector\Dll_Injector\obj\Debug\net8.0-windows\ref\InjectorDll.dll
